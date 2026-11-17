@@ -12,14 +12,20 @@
       "name": "传媒样本甲",
       "group": "甲",
       "detail": "交易状态甲",
-      "changed_detail": "交易状态修订甲"
+      "changed_detail": "交易状态修订甲",
+      "trade_date": "2026-11-17",
+      "trading_phase": "收盘",
+      "exchange_state": "待核实"
     },
     {
       "id": "limit-state-b",
       "name": "传媒样本乙",
       "group": "乙",
       "detail": "交易状态乙",
-      "changed_detail": "交易状态修订乙"
+      "changed_detail": "交易状态修订乙",
+      "trade_date": "2026-11-17",
+      "trading_phase": "收盘",
+      "exchange_state": "待核实"
     }
   ]
 }
